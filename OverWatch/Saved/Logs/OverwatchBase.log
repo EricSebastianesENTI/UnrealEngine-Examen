@@ -24454,3 +24454,15 @@ Make sure '/Game/_Project/Characters/AMALGAM/skills/JetJump/Amalgm_JetJump_Skill
 [2026.06.05-17.59.39:312][851]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.06.05-17.59.39:312][851]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.06.05-17.59.39:312][851]AssetCheck: /Game/_Project/Characters/AMALGAM/skills/JetJump/Amalgm_JetJump_Skill_BPC Validating asset
+[2026.06.05-18.00.33:955][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.06.05-18.00.34:661][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.06.05-18.00.34:755][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.06.05-18.00.34:861][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.06.05-18.00.35:141][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.06.05-18.00.35:338][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.06.05-18.00.35:586][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.06.05-18.00.35:728][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.06.05-18.00.35:838][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.06.05-18.00.35:981][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.06.05-18.00.36:117][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.06.05-18.00.36:270][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
